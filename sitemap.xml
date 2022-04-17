@@ -145,4 +145,11 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://nwebstone.github.io/categories/JavaScript/</loc>
+    <lastmod>2022-04-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 </urlset>
