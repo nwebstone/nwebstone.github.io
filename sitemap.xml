@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nwebstone.github.io/posts/5.html</loc>
+    
+    <lastmod>2022-04-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nwebstone.github.io/posts/3.html</loc>
     
     <lastmod>2022-04-17</lastmod>
@@ -123,7 +130,7 @@
 
   <url>
     <loc>https://nwebstone.github.io/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,7 +138,7 @@
   
   <url>
     <loc>https://nwebstone.github.io/tags/JS%E8%BF%9B%E9%98%B6/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,28 +147,28 @@
   
   <url>
     <loc>https://nwebstone.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://nwebstone.github.io/categories/HTML/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://nwebstone.github.io/categories/JavaScript/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://nwebstone.github.io/categories/TypeScript/</loc>
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
